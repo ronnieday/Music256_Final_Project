@@ -1,10 +1,6 @@
 # Sapphire
 "Pot-Smoking" Sequencer
 
-Final Project for MUSIC256A
-
-Stanford, CCRMA, Fall 2016
-
 Abstract:
 
 Functionally, sapphire is an audio sequencer, but one with a unique and totally "pot-smoking" geometry.  It is intended to be both fun, and perhaps a bit informative.  Although it is my goal for the interface to be intuitive, you may still be wondering: what is it?
