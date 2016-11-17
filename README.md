@@ -2,6 +2,7 @@
 "Pot-Smoking" Sequencer
 
 Final Project for MUSIC256A
+
 Stanford, CCRMA, Fall 2016
 
 Abstract:
